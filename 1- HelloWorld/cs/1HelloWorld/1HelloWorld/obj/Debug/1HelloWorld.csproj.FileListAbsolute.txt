@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\1\cs\1HelloWorld\1HelloWorld\bin\Debug\1HelloWorld.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\1\cs\1HelloWorld\1HelloWorld\bin\Debug\1HelloWorld.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\1\cs\1HelloWorld\1HelloWorld\bin\Debug\1HelloWorld.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\1\cs\1HelloWorld\1HelloWorld\obj\Debug\1HelloWorld.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\1\cs\1HelloWorld\1HelloWorld\obj\Debug\_1HelloWorld.Form1.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\1\cs\1HelloWorld\1HelloWorld\obj\Debug\_1HelloWorld.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\1\cs\1HelloWorld\1HelloWorld\obj\Debug\1HelloWorld.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\1\cs\1HelloWorld\1HelloWorld\obj\Debug\1HelloWorld.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\1\cs\1HelloWorld\1HelloWorld\obj\Debug\1HelloWorld.pdb

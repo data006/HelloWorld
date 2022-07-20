@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\bin\Debug\HelloWorld53.exe.config
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\bin\Debug\HelloWorld53.exe
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\bin\Debug\HelloWorld53.pdb
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\bin\Debug\HelloWorld53.xml
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\obj\Debug\HelloWorld53.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\obj\Debug\HelloWorld53.Form1.resources
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\obj\Debug\HelloWorld53.Resources.resources
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\obj\Debug\HelloWorld53.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\obj\Debug\HelloWorld53.exe
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\obj\Debug\HelloWorld53.xml
+C:\Users\CarlosLap\source\repos\HelloWorld53\HelloWorld53\obj\Debug\HelloWorld53.pdb
